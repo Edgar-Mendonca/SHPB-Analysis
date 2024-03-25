@@ -13,7 +13,7 @@ In the Split Hopkinson Pressure Bar (SHPB) experiment, the characteristic relati
 
 3. **Mean Axial Strain Rate in the Specimen:**
    - The mean axial strain rate $` \dot{e}_s `$ in the specimen is calculated as:
-     $` \dot{\varepsilon}_s = \frac{c_b}{l_0} (\varepsilon_I - \varepsilon_R - \varepsilon_T) `$ 
+     $` \dot{e}_s = \frac{c_b}{l_0} (\varepsilon_I - \varepsilon_R - \varepsilon_T) `$ 
    - Here, $` l_0 `$ represents the initial specimen length.
 
 4. **Calculation of Bar Stresses and Normal Forces:**
