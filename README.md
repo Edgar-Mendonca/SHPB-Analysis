@@ -50,7 +50,7 @@ In the Split Hopkinson Pressure Bar (SHPB) experiment, the characteristic relati
 The theory and equations used in this project are based on the following sources:
 
 - Ramesh, K.T. (2008). High Rates and Impact Experiments. In: Sharpe, W. (eds) *Springer Handbook of Experimental Solid Mechanics*. Springer Handbooks. Springer, Boston, MA. [DOI: 10.1007/978-0-387-30877-7_33](https://doi.org/10.1007/978-0-387-30877-7_33)
-- Kolsky, H. (1963). Stress waves in solids. *Dover Publications, Inc., New York, NY*. 
+- Kolsky, H. (1963). Stress Waves in Solids. *United Kingdom: Dover Publications*.
 
 
 
