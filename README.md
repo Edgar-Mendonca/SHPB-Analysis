@@ -1,7 +1,7 @@
 # SHPB Analysis Tool - Edgar Mendonca
 <p align="center">
-<img src="https://raw.githubusercontent.com/Edgar-Mendonca/SHPB-Analysis/main/test_data/v-t%20-%20strain-t.png" height="100" width="100" />
-<img src="https://raw.githubusercontent.com/Edgar-Mendonca/SHPB-Analysis/main/test_data/True-stress-strain.png" height="100" width="100" />
+<img src="https://raw.githubusercontent.com/Edgar-Mendonca/SHPB-Analysis/main/test_data/v-t%20-%20strain-t.png" />
+<img src="https://raw.githubusercontent.com/Edgar-Mendonca/SHPB-Analysis/main/test_data/True-stress-strain.png" />
 </p>
 
 This Python script analyses Split Hopkinson Pressure Bar (SHPB) experimental data to calculate stress-strain curves and other relevant parameters. Follow the instructions below to use the script with your experimental data.
