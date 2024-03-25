@@ -3,6 +3,8 @@
 ## Formula Explanation for Stress-Strain Calculation in SHPB Experiment
 
 In the Split Hopkinson Pressure Bar (SHPB) experiment, the characteristic relations associated with one-dimensional elastic wave propagation in the bar provide the basis for calculating stress and strain in the specimen.
+This sentence uses `$` delimiters to show math inline:  $\sqrt{3x-1}+(1+x)^2$
+
 
 1. **Particle Velocity at the Specimen/Input-Bar Interface:**
    - The particle velocity \( v_1(t) \) at the specimen/input-bar interface is given by:
