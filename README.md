@@ -105,6 +105,8 @@ The theory and equations used in this project are based on the following sources
 - Ramesh, K.T. (2008). High Rates and Impact Experiments. In: Sharpe, W. (eds) *Springer Handbook of Experimental Solid Mechanics*. Springer Handbooks. Springer, Boston, MA. [DOI: 10.1007/978-0-387-30877-7_33](https://doi.org/10.1007/978-0-387-30877-7_33)
 - Kolsky, H. (1963). Stress Waves in Solids. *United Kingdom: Dover Publications*.
 
+## License
 
+This project is licensed under the  Apache-2.0 License. - see the [LICENSE](LICENSE) file for details.
 
 
