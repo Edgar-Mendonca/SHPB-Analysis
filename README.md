@@ -30,3 +30,10 @@ In the Split Hopkinson Pressure Bar (SHPB) experiment, the characteristic relati
      -  $` \dot{e}_s(t) = \frac{2c_b}{l_0} \varepsilon_R(t) `$ 
      -  $` e_s(t) = \int_0^t \dot{e}_s(\tau) d\tau `$ 
      -  $` S_s(t) = \frac{E_b A_b}{A_s} \varepsilon_T(t) `$
+    
+6. **True Stress-Strain**
+   In the Split Hopkinson Pressure Bar (SHPB) experiment, true stress and strain can be calculated from the engineering stress and strain data obtained from measurements.
+   The true strain $\varepsilon_s(t)$ in the specimen is given by:
+$\varepsilon_s(t) = -\ln(1 - e_s(t))$
+Here, $e_s(t)$ represents the engineering strain in the specimen.
+
