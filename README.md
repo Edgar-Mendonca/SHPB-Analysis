@@ -1,4 +1,4 @@
-## Formula Explanation for Stress-Strain Calculation in SHPB Experiment
+## Explanation for Stress-Strain Calculation in SHPB Experiment
 
 In the Split Hopkinson Pressure Bar (SHPB) experiment, the characteristic relations associated with one-dimensional elastic wave propagation in the bar provide the basis for calculating stress and strain in the specimen.
 
