@@ -29,6 +29,6 @@ In the Split Hopkinson Pressure Bar (SHPB) experiment, the characteristic relati
 
 6. **Stress-Strain Relationship:**
    - Assuming stress equilibrium, uniaxial stress conditions in the specimen, and one-dimensional elastic stress wave propagation without dispersion in the bars, the nominal strain rate $` \dot{e}_s `$, nominal strain $` e_s `$, and nominal stress $` S_s `$ in the specimen are estimated using:
-     - $` \dot{\varepsilon}_s(t) = \frac{2c_b}{l_0} \varepsilon_R(t) `$ 
-     - $` \varepsilon_s(t) = \int_0^t \dot{\varepsilon}_s(\tau) d\tau `$ 
-     - $` S_s(t) = \frac{E_b A_b}{A_s} \varepsilon_T(t) `$
+     -  $` \dot{e}_s(t) = \frac{2c_b}{l_0} \varepsilon_R(t) `$ 
+     -  $` e_s(t) = \int_0^t \dot{e}_s(\tau) d\tau `$ 
+     -  $` S_s(t) = \frac{E_b A_b}{A_s} \varepsilon_T(t) `$
