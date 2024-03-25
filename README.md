@@ -3,7 +3,7 @@
 In the Split Hopkinson Pressure Bar (SHPB) experiment, the characteristic relations associated with one-dimensional elastic wave propagation in the bar provide the basis for calculating stress and strain in the specimen.
 
 1. **Particle Velocity at the Specimen/Input-Bar Interface:**
-   - The particle velocity \( v_1(t) \) at the specimen/input-bar interface is given by:
+   - The particle velocity $` v_1(t) `$ at the specimen/input-bar interface is given by:
      $` v_1(t) = c_b(\varepsilon_I - \varepsilon_R) `$ 
    - Here, \( c_b = \sqrt{\frac{E_b}{\rho_b}} \) represents the bar wave speed, with \( E_b \) denoting the Young's modulus and \( \rho_b \) the density of the bar material.
 
