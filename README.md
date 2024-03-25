@@ -1,4 +1,57 @@
-# SHPB Analysis 
+# SHPB Analysis Tool - Edgar Mendonca
+
+This Python script analyzes Split Hopkinson Pressure Bar (SHPB) experimental data to calculate stress-strain curves and other relevant parameters. Follow the instructions below to use the script with your experimental data.
+
+## Instructions
+
+1. **Install Dependencies:** Make sure you have Python installed on your system. You can install the required Python packages by running the following command:
+
+    ```
+    pip install -r requirements.txt
+    ```
+
+2. **Prepare Experimental Data:**
+
+    - Ensure that your experimental data is stored in a CSV or Excel file.
+    - The file should contain columns for "Time", "Incident", "Reflected", and "Transmitted" voltages.
+    - Voltage values should be in volts (V).
+    - Specify the file name in the Python script (`analysis.py`) using the `filename` variable. For example:
+
+    ```python
+    filename = "path/to/your/data_file.csv"
+    ```
+
+3. **Customize Input Parameters:**
+
+    - Open the Python script (`analysis.py`) in a text editor.
+    - Update the input parameters according to your experiment setup. Parameters such as Young's modulus, density, initial length, and cross-sectional areas should be adjusted based on your experimental conditions.
+
+4. **Run the Script:**
+
+    - Run the script using the following command:
+
+    ```
+    python analysis.py
+    ```
+
+5. **View Plots and Analyze Results:**
+
+    - After running the script, view the generated plots to analyze the results.
+    - The script will generate plots for filtered voltage data, strain data, stress-strain curve, and true stress-strain curve.
+
+## Example Usage
+
+Here's an example of how to use the script with your experimental data:
+
+1. Ensure that Python and the required dependencies are installed on your system.
+2. Prepare your experimental data in a CSV or Excel file format.
+3. Customize the input parameters in the `analysis.py` script based on your experiment setup.
+4. Specify the file name of your experimental data in the script.
+5. Run the script using `python analysis.py`.
+6. Analyze the generated plots to interpret the results of your SHPB experiment.
+
+
+
 ## Explanation for Stress-Strain Calculation in SHPB Experiment
 
 In the Split Hopkinson Pressure Bar (SHPB) experiment, the characteristic relations associated with one-dimensional elastic wave propagation in the bar provide the basis for calculating stress and strain in the specimen.
