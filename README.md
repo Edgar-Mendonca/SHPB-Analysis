@@ -8,7 +8,7 @@ This sentence uses `$` delimiters to show math inline:  $\sqrt{3x-1}+(1+x)^2$
 
 1. **Particle Velocity at the Specimen/Input-Bar Interface:**
    - The particle velocity \( v_1(t) \) at the specimen/input-bar interface is given by:
-     $$ v_1(t) = c_b(\varepsilon_I - \varepsilon_R) $$
+     $ v_1(t) = c_b(\varepsilon_I - \varepsilon_R) $
    - Here, \( c_b = \sqrt{\frac{E_b}{\rho_b}} \) represents the bar wave speed, with \( E_b \) denoting the Young's modulus and \( \rho_b \) the density of the bar material.
 
 2. **Particle Velocity at the Specimen/Output-Bar Interface:**
