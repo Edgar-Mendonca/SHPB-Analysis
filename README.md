@@ -1,5 +1,6 @@
 # SHPB Analysis Tool - Edgar Mendonca
 <p align="center">
+<img src="https://raw.githubusercontent.com/Edgar-Mendonca/SHPB-Analysis/main/test_data/raw-v-t.png" height="300" width="300" />
 <img src="https://raw.githubusercontent.com/Edgar-Mendonca/SHPB-Analysis/main/test_data/v-t%20-%20strain-t.png" height="300" width="300" />
 <img src="https://raw.githubusercontent.com/Edgar-Mendonca/SHPB-Analysis/main/test_data/True-stress-strain.png" height="300" width="300" />
 </p>
