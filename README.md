@@ -1,6 +1,6 @@
 # SHPB Analysis Tool - Edgar Mendonca
 <p align="center">
-<img src="https://raw.githubusercontent.com/Edgar-Mendonca/SHPB-Analysis/main/test_data/Figure_1.png" height="300" width="300" />
+<img src="https://raw.githubusercontent.com/Edgar-Mendonca/SHPB-Analysis/main/test_data/Figure_1.png" height="300" width="400" />
 <img src="https://raw.githubusercontent.com/Edgar-Mendonca/SHPB-Analysis/main/test_data/Figure_2.png" height="300" width="300" />
 <img src="https://raw.githubusercontent.com/Edgar-Mendonca/SHPB-Analysis/main/test_data/Figure_3.png" height="300" width="300" />
 </p>
