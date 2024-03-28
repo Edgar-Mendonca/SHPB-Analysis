@@ -1,4 +1,4 @@
-# SHPB Analysis Tool - Edgar Mendonca
+# SHPB Analysis Tool
 <p align="center">
 <img src="https://raw.githubusercontent.com/Edgar-Mendonca/SHPB-Analysis/main/test_data/Figure_1.png" height="300" width="350" />
 <img src="https://raw.githubusercontent.com/Edgar-Mendonca/SHPB-Analysis/main/test_data/Figure_2.png" height="300" width="300" />
@@ -101,6 +101,28 @@ In the Split Hopkinson Pressure Bar (SHPB) experiment, the characteristic relati
    - The true stress $\sigma_s(t)$ in the specimen is obtained as:
         - $\sigma_s(t) = S_s(t) \cdot (1 - e_s(t))$    <br />
      Here, $S_s(t)$ represents the nominal stress in the specimen.
+
+# SHPB Cropping Tool
+
+1. **Data Preparation:**
+   - Prepare your SHPB data in CSV format. Each CSV file should contain three columns: 'Time' and the respective voltage data (e.g., 'Incident' and  'Transmitted').
+
+2. **Launching the Tool:**
+   - Run the Python script `crop.py`.
+   - The tool will display a graphical interface with multiple subplots.
+
+3. **Selecting Regions:**
+   - For Incident Voltage: Click and drag on the subplot (labelled 'Incident Voltage') to select a region of interest.
+   - For Reflected Voltage: Click and drag on the subplot (labelled 'Reflected Voltage') to select a region of interest.
+   - For Transmitted Voltage: Click and drag on the subplot (labelled 'Transmitted Voltage') to select a region of interest.
+
+4. **Saving Selected Data:**
+   - The selected regions will be displayed on their respective subplots.
+   - The selected data will be saved automatically to CSV files in the same directory as the script.
+     - Selected Incident Voltage data will be saved to `selected_incident.csv`.
+     - Selected Reflected Voltage data will be saved to `selected_reflected.csv`.
+     - Selected Transmitted Voltage data will be saved to `selected_transmitted.csv`.
+
 
 
 ### Reference
