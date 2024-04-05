@@ -106,6 +106,7 @@ In the Split Hopkinson Pressure Bar (SHPB) experiment, the characteristic relati
 <p align="center">
 <img src="https://raw.githubusercontent.com/Edgar-Mendonca/SHPB-Analysis/main/test_data/Figure_4.png" height="" width="" />
 </p>
+
 1. **Data Preparation:**
    - Prepare your SHPB data in CSV format. Each CSV file should contain three columns: 'Time' and the respective voltage data (e.g., 'Incident' and  'Transmitted').
 
